@@ -1,6 +1,8 @@
 # 🧠 Product Review Summarization API (Persian NLP)
 
 An intelligent API for analyzing and summarizing product reviews using NLP and LLMs.
+Note: Real user data is excluded for privacy reasons.
+Sample data is provided for demonstration purposes.
 
 ---
 
