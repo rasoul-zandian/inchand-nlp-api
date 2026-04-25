@@ -15,6 +15,12 @@ venv/
 data/processed/
 
 # Mac
+<<<<<<< HEAD
 .DS_Store
+data/raw/
+=======
+.DS_Storedata/raw/
+>>>>>>> c8cc0f5 (Add sample dataset for demo purposes)
+data/processed/
 data/raw/
 data/processed/
