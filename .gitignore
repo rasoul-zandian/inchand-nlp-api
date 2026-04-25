@@ -16,3 +16,5 @@ data/processed/
 
 # Mac
 .DS_Store
+data/raw/
+data/processed/
