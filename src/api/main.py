@@ -6,7 +6,13 @@ from src.services.summary_service import (
     force_refresh_summary,
     get_summary_status,
 )
-
+@app.get("/")
+def root():
+    return {
+        "message": "Welcome to Inchand NLP API 🚀",
+        "docs": "/docs",
+        "health": "/api/v1/health"
+    }
 app = FastAPI(
     title="Inchand NLP API",
     description="API for product comment analysis and summarization",
