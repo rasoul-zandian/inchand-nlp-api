@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-DATA_PATH = Path("data/sample_comments.csv")
+DATA_PATH = Path("data/sample/sample_comments.csv")
 
 
 def load_comments():
